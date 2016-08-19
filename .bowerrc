@@ -1,0 +1,11 @@
+{
+  "directory": "bower_crap",
+  "save": true,
+  "color": true,
+
+  "scripts": {
+    "preinstall": " ",
+    "postinstall": " console.log('% has been installed') ",
+    "preuninstall": " "
+  }
+}

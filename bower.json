@@ -16,6 +16,9 @@
   ],
   "dependencies": {
     "angular": "^1.5.8",
-    "angular-classy": "^1.2.3"
+    "angular-classy": "^1.2.3",
+    "api-check": "^7.5.5",
+    "angular-formly-templates-bootstrap": "^6.3.2",
+    "bootstrap": "4.0"
   }
 }
